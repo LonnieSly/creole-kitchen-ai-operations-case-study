@@ -10,7 +10,7 @@ This repository contains a comprehensive analysis demonstrating how multi-agent 
 - Format: Point-of-Sale transaction data
 
 ## Dataset
-- **File:** `creole_kitchen_pos_transactions_2025_h2.csv`
+- **File:** `creole_kitchen_pos_transactions_2025_h2.csv` (available upon request)
 - **Records:** 319,705 line items across 99,273 transactions
 - **Revenue:** $2.58M over 6-month period
 - **Locations:** French Quarter (flagship), Garden District, Metairie
