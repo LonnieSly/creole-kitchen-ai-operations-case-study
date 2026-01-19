@@ -1,0 +1,101 @@
+date,reviewer_name,location,rating,review_text,sentiment,mentioned_item
+2025-07-01,Jason W.,French Quarter,5,Excellent food! Ordered the Red Beans & Rice and it did not disappoint. Worth every penny.,positive,Red Beans & Rice
+2025-07-02,Alexis W.,French Quarter,5,The Jambalaya was seasoned beautifully. Comfortable seating at the French Quarter location. Will return soon.,positive,Jambalaya
+2025-07-07,James T.,French Quarter,4,Came for lunch and ordered the Blackened Chicken Pasta. Cooked perfectly and arrived hot. Service was quick.,positive,Blackened Chicken Pasta
+2025-07-07,Jason W.,French Quarter,3,The Jambalaya was good but the seasoning was different from my previous visit. Still decent though.,mixed,Jambalaya
+2025-07-09,Austin R.,French Quarter,5,Family loved the Jambalaya. Good value for the price. Clean restaurant and friendly staff.,positive,Jambalaya
+2025-07-10,Kayla M.,Garden District,4,The Red Beans & Rice here is authentic and flavorful. Staff was knowledgeable about the menu. Great experience.,positive,Red Beans & Rice
+2025-07-10,Dylan C.,French Quarter,4,Great Po' Boy Sandwich but inconsistent - ordered it twice and portions were different sizes. Still tasty both times.,mixed,Po' Boy Sandwich
+2025-07-12,Sarah M.,French Quarter,4,The Po' Boy Sandwich was delicious but they seemed understaffed when we visited around Saturday evening. Food made up for the wait though.,mixed,Po' Boy Sandwich
+2025-07-12,Eric D.,Garden District,5,Best Shrimp & Grits I've had in New Orleans. Service was friendly and attentive. Highly recommend!,positive,Shrimp & Grits
+2025-07-14,David L.,French Quarter,4,Had the Red Beans & Rice with a Soft Drink. Both were excellent. Great spot for a casual dinner.,positive,Red Beans & Rice
+2025-07-17,Tiffany B.,Garden District,5,Had the Po' Boy Sandwich with a Soft Drink. Both were excellent. Great spot for a casual dinner.,positive,Po' Boy Sandwich
+2025-07-20,Rachel P.,French Quarter,4,Food was excellent (Fried Catfish Plate). Wish they'd suggested sides or desserts. Felt like they were rushed.,mixed,Fried Catfish Plate
+2025-07-22,Kevin S.,Garden District,3,Had a great Fried Catfish Plate. Server never mentioned desserts though - would have tried one if offered!,mixed,Fried Catfish Plate
+2025-07-23,Tiffany B.,French Quarter,5,Came for lunch and ordered the Gumbo Bowl. Cooked perfectly and arrived hot. Service was quick.,positive,Gumbo Bowl
+2025-07-23,Megan H.,French Quarter,5,Love this place! The Shrimp & Grits is always consistently good. Been coming here for months.,positive,Shrimp & Grits
+2025-07-24,Tiffany B.,Metairie,3,The Blackened Chicken Pasta was delicious but they seemed understaffed when we visited around lunch rush (12-1pm). Food made up for the wait though.,mixed,Blackened Chicken Pasta
+2025-07-24,Thomas B.,French Quarter,4,Ordered Fried Catfish Plate and it paired perfectly with their Coffee. Solid choice for Creole food.,positive,Fried Catfish Plate
+2025-07-24,Justin K.,French Quarter,1,Ordered Blackened Chicken Pasta and portion size was way smaller than expected for $19. Not worth it.,negative,Blackened Chicken Pasta
+2025-07-24,Kayla M.,French Quarter,3,Had a great Po' Boy Sandwich. Server never mentioned desserts though - would have tried one if offered!,mixed,Po' Boy Sandwich
+2025-07-25,Marcus T.,French Quarter,5,Outstanding Fried Catfish Plate! You can tell they use quality ingredients. Definitely a local gem.,positive,Fried Catfish Plate
+2025-07-26,Thomas B.,Garden District,2,Ordered Shrimp & Grits and portion size was way smaller than expected for $18. Not worth it.,negative,Shrimp & Grits
+2025-07-27,Brandon C.,French Quarter,1,Very inconsistent. Fried Catfish Plate tasted different than my last visit. Quality control issue?,negative,Fried Catfish Plate
+2025-07-27,Brittany L.,French Quarter,4,The Shrimp & Grits was seasoned beautifully. Comfortable seating at the French Quarter location. Will return soon.,positive,Shrimp & Grits
+2025-07-28,Nicole V.,Garden District,5,Family loved the Crawfish Etouffee. Good value for the price. Clean restaurant and friendly staff.,positive,Crawfish Etouffee
+2025-07-28,Jason W.,French Quarter,5,Excellent food! Ordered the Jambalaya and it did not disappoint. Worth every penny.,positive,Jambalaya
+2025-07-30,Carlos H.,Metairie,5,Came for lunch and ordered the Cornbread. Cooked perfectly and arrived hot. Service was quick.,positive,Cornbread
+2025-07-31,Tyler M.,French Quarter,4,Came for lunch and ordered the Gumbo Bowl. Cooked perfectly and arrived hot. Service was quick.,positive,Gumbo Bowl
+2025-08-03,Stephanie H.,Garden District,3,Had a great Jambalaya. Server never mentioned desserts though - would have tried one if offered!,mixed,Jambalaya
+2025-08-05,Amanda S.,Metairie,5,The Shrimp & Grits was delicious. Metairie location has great atmosphere. Very satisfied with our meal.,positive,Shrimp & Grits
+2025-08-06,Sarah M.,French Quarter,4,The Blackened Chicken Pasta here is authentic and flavorful. Staff was knowledgeable about the menu. Great experience.,positive,Blackened Chicken Pasta
+2025-08-15,Michael P.,French Quarter,4,Had a great Po' Boy Sandwich. Server never mentioned desserts though - would have tried one if offered!,mixed,Po' Boy Sandwich
+2025-08-20,Lauren K.,French Quarter,5,The Cornbread was seasoned beautifully. Comfortable seating at the French Quarter location. Will return soon.,positive,Cornbread
+2025-08-27,Brittany L.,French Quarter,5,Ordered Blackened Chicken Pasta and it paired perfectly with their Coffee. Solid choice for Creole food.,positive,Blackened Chicken Pasta
+2025-08-30,Brittany L.,French Quarter,5,The Gumbo Bowl was seasoned beautifully. Comfortable seating at the French Quarter location. Will return soon.,positive,Gumbo Bowl
+2025-08-30,Kevin S.,French Quarter,4,Family loved the Blackened Chicken Pasta. Good value for the price. Clean restaurant and friendly staff.,positive,Blackened Chicken Pasta
+2025-09-05,Daniel F.,French Quarter,4,Ordered Crawfish Etouffee and it paired perfectly with their Lemonade. Solid choice for Creole food.,positive,Crawfish Etouffee
+2025-09-05,Megan H.,Garden District,5,Came for lunch and ordered the Shrimp & Grits. Cooked perfectly and arrived hot. Service was quick.,positive,Shrimp & Grits
+2025-09-07,Marcus T.,French Quarter,2,Used to love this place but quality has dropped. Po' Boy Sandwich wasn't as good as before. Won't be returning.,negative,Po' Boy Sandwich
+2025-09-07,Jason W.,French Quarter,5,The Red Beans & Rice was delicious. French Quarter location has great atmosphere. Very satisfied with our meal.,positive,Red Beans & Rice
+2025-09-10,Jennifer R.,French Quarter,5,Came for lunch and ordered the Po' Boy Sandwich. Cooked perfectly and arrived hot. Service was quick.,positive,Po' Boy Sandwich
+2025-09-13,Jennifer R.,French Quarter,4,The Crawfish Etouffee here is authentic and flavorful. Staff was knowledgeable about the menu. Great experience.,positive,Crawfish Etouffee
+2025-09-13,Eric D.,French Quarter,3,The Blackened Chicken Pasta was delicious but they seemed understaffed when we visited around lunch rush (12-1pm). Food made up for the wait though.,mixed,Blackened Chicken Pasta
+2025-09-15,Samantha R.,French Quarter,4,Love this place! The Fried Catfish Plate is always consistently good. Been coming here for months.,positive,Fried Catfish Plate
+2025-09-17,Dylan C.,French Quarter,5,Love this place! The Fried Catfish Plate is always consistently good. Been coming here for months.,positive,Fried Catfish Plate
+2025-09-18,Ashley W.,French Quarter,4,Best Crawfish Etouffee I've had in New Orleans. Service was friendly and attentive. Highly recommend!,positive,Crawfish Etouffee
+2025-09-30,Amanda S.,French Quarter,5,Ordered Shrimp & Grits and it paired perfectly with their Soft Drink. Solid choice for Creole food.,positive,Shrimp & Grits
+2025-10-09,Maria G.,Garden District,2,Very inconsistent. Blackened Chicken Pasta tasted different than my last visit. Quality control issue?,negative,Blackened Chicken Pasta
+2025-10-10,Carlos H.,French Quarter,3,Had a great Red Beans & Rice. Server never mentioned desserts though - would have tried one if offered!,mixed,Red Beans & Rice
+2025-10-14,Nicole V.,Garden District,2,Visited the Garden District location and service was terrible. Food (Crawfish Etouffee) was fine but the wait killed it.,negative,Crawfish Etouffee
+2025-10-15,Nicole V.,Garden District,5,Ordered Jambalaya and it paired perfectly with their Sweet Tea. Solid choice for Creole food.,positive,Jambalaya
+2025-10-16,Daniel F.,French Quarter,2,Very inconsistent. Jambalaya tasted different than my last visit. Quality control issue?,negative,Jambalaya
+2025-10-20,Emily C.,French Quarter,5,Best Shrimp & Grits I've had in New Orleans. Service was friendly and attentive. Highly recommend!,positive,Shrimp & Grits
+2025-10-24,David L.,Metairie,5,Outstanding Jambalaya! You can tell they use quality ingredients. Definitely a local gem.,positive,Jambalaya
+2025-10-26,Megan H.,French Quarter,4,Food was excellent (Po' Boy Sandwich). Wish they'd suggested sides or desserts. Felt like they were rushed.,mixed,Po' Boy Sandwich
+2025-10-28,Marcus T.,Metairie,3,The Red Beans & Rice was delicious but they seemed understaffed when we visited around lunch rush (12-1pm). Food made up for the wait though.,mixed,Red Beans & Rice
+2025-10-29,Samantha R.,Garden District,5,Amazing Fried Catfish Plate! The flavors were perfect and the portion size was generous. Will definitely be back.,positive,Fried Catfish Plate
+2025-10-30,Emily C.,French Quarter,4,Food was excellent (Crawfish Etouffee). Wish they'd suggested sides or desserts. Felt like they were rushed.,mixed,Crawfish Etouffee
+2025-11-01,Sarah M.,French Quarter,1,Ordered Blackened Chicken Pasta and portion size was way smaller than expected for $19. Not worth it.,negative,Blackened Chicken Pasta
+2025-11-01,Anthony M.,Garden District,5,Best Blackened Chicken Pasta I've had in New Orleans. Service was friendly and attentive. Highly recommend!,positive,Blackened Chicken Pasta
+2025-11-06,Robert K.,Metairie,1,The Crawfish Etouffee was okay but nothing special. Expected more based on reviews. Overpriced for what you get.,negative,Crawfish Etouffee
+2025-11-06,Tiffany B.,French Quarter,1,Very inconsistent. Po' Boy Sandwich tasted different than my last visit. Quality control issue?,negative,Po' Boy Sandwich
+2025-11-07,Austin R.,Garden District,5,The Shrimp & Grits was delicious. Garden District location has great atmosphere. Very satisfied with our meal.,positive,Shrimp & Grits
+2025-11-08,Stephanie H.,French Quarter,4,Ordered Jambalaya and it paired perfectly with their Soft Drink. Solid choice for Creole food.,positive,Jambalaya
+2025-11-10,Michael P.,Metairie,5,The Blackened Chicken Pasta was delicious. Metairie location has great atmosphere. Very satisfied with our meal.,positive,Blackened Chicken Pasta
+2025-11-12,Brandon C.,French Quarter,4,Had a great Shrimp & Grits. Server never mentioned desserts though - would have tried one if offered!,mixed,Shrimp & Grits
+2025-11-15,Jordan S.,Garden District,5,The Crawfish Etouffee was delicious. Garden District location has great atmosphere. Very satisfied with our meal.,positive,Crawfish Etouffee
+2025-11-16,Carlos H.,Metairie,5,The Gumbo Bowl here is authentic and flavorful. Staff was knowledgeable about the menu. Great experience.,positive,Gumbo Bowl
+2025-11-16,Jennifer R.,French Quarter,3,Solid food. The Fried Catfish Plate hit the spot. Service was a bit scattered during lunch rush but friendly.,mixed,Fried Catfish Plate
+2025-11-20,Justin K.,Garden District,4,Excellent food! Ordered the Po' Boy Sandwich and it did not disappoint. Worth every penny.,positive,Po' Boy Sandwich
+2025-11-20,Brandon C.,Metairie,4,Outstanding Gumbo Bowl! You can tell they use quality ingredients. Definitely a local gem.,positive,Gumbo Bowl
+2025-11-21,James T.,Metairie,5,Family loved the Gumbo Bowl. Good value for the price. Clean restaurant and friendly staff.,positive,Gumbo Bowl
+2025-11-22,Lauren K.,Garden District,5,Excellent food! Ordered the Jambalaya and it did not disappoint. Worth every penny.,positive,Jambalaya
+2025-11-23,Alexis W.,French Quarter,5,The Fried Catfish Plate here is authentic and flavorful. Staff was knowledgeable about the menu. Great experience.,positive,Fried Catfish Plate
+2025-11-24,Emily C.,French Quarter,5,Outstanding Po' Boy Sandwich! You can tell they use quality ingredients. Definitely a local gem.,positive,Po' Boy Sandwich
+2025-11-25,Maria G.,French Quarter,4,Solid food. The Po' Boy Sandwich hit the spot. Service was a bit scattered during lunch rush but friendly.,mixed,Po' Boy Sandwich
+2025-11-26,Emily C.,French Quarter,5,The Gumbo Bowl here is authentic and flavorful. Staff was knowledgeable about the menu. Great experience.,positive,Gumbo Bowl
+2025-12-01,Anthony M.,Metairie,5,Had the Fried Catfish Plate with a Coffee. Both were excellent. Great spot for a casual dinner.,positive,Fried Catfish Plate
+2025-12-02,Nicole V.,French Quarter,4,Outstanding Crawfish Etouffee! You can tell they use quality ingredients. Definitely a local gem.,positive,Crawfish Etouffee
+2025-12-02,Jennifer R.,Garden District,2,Food quality is inconsistent. Crawfish Etouffee was great last month but today it was bland. Disappointing.,negative,Crawfish Etouffee
+2025-12-03,Brandon C.,Garden District,4,Ordered Red Beans & Rice and it paired perfectly with their Coffee. Solid choice for Creole food.,positive,Red Beans & Rice
+2025-12-03,Ashley W.,French Quarter,3,Great Blackened Chicken Pasta but inconsistent - ordered it twice and portions were different sizes. Still tasty both times.,mixed,Blackened Chicken Pasta
+2025-12-03,Jason W.,Garden District,5,Family loved the Crawfish Etouffee. Good value for the price. Clean restaurant and friendly staff.,positive,Crawfish Etouffee
+2025-12-11,Brittany L.,Metairie,4,The Gumbo Bowl was good but the seasoning was different from my previous visit. Still decent though.,mixed,Gumbo Bowl
+2025-12-14,Daniel F.,French Quarter,5,Excellent food! Ordered the Jambalaya and it did not disappoint. Worth every penny.,positive,Jambalaya
+2025-12-14,Brittany L.,Metairie,4,Amazing Red Beans & Rice! The flavors were perfect and the portion size was generous. Will definitely be back.,positive,Red Beans & Rice
+2025-12-17,Jordan S.,French Quarter,3,Good Crawfish Etouffee but service varies by location. French Quarter was just okay compared to their other spots.,mixed,Crawfish Etouffee
+2025-12-17,Alexis W.,French Quarter,3,Ordered Crawfish Etouffee and portion size was way smaller than expected for $22. Not worth it.,negative,Crawfish Etouffee
+2025-12-17,Carlos H.,French Quarter,3,Food was excellent (Shrimp & Grits). Wish they'd suggested sides or desserts. Felt like they were rushed.,mixed,Shrimp & Grits
+2025-12-19,Jason W.,Metairie,5,Had the Jambalaya with a Coffee. Both were excellent. Great spot for a casual dinner.,positive,Jambalaya
+2025-12-21,Christopher J.,Metairie,3,The Fried Okra was delicious but they seemed understaffed when we visited around dinner rush (6-8pm). Food made up for the wait though.,mixed,Fried Okra
+2025-12-23,Daniel F.,French Quarter,5,Came for lunch and ordered the Shrimp & Grits. Cooked perfectly and arrived hot. Service was quick.,positive,Shrimp & Grits
+2025-12-24,Kevin S.,Metairie,4,Excellent food! Ordered the Gumbo Bowl and it did not disappoint. Worth every penny.,positive,Gumbo Bowl
+2025-12-24,Austin R.,French Quarter,5,Love this place! The Po' Boy Sandwich is always consistently good. Been coming here for months.,positive,Po' Boy Sandwich
+2025-12-27,Michelle L.,French Quarter,3,Food was excellent (Shrimp & Grits). Wish they'd suggested sides or desserts. Felt like they were rushed.,mixed,Shrimp & Grits
+2025-12-27,James T.,French Quarter,4,Ordered Crawfish Etouffee and it paired perfectly with their Coffee. Solid choice for Creole food.,positive,Crawfish Etouffee
+2025-12-29,Kevin S.,Metairie,5,Excellent food! Ordered the Jambalaya and it did not disappoint. Worth every penny.,positive,Jambalaya
+2025-12-29,Jennifer R.,Garden District,4,The Blackened Chicken Pasta was delicious. Garden District location has great atmosphere. Very satisfied with our meal.,positive,Blackened Chicken Pasta
+2025-12-30,Ashley W.,French Quarter,5,Excellent food! Ordered the Po' Boy Sandwich and it did not disappoint. Worth every penny.,positive,Po' Boy Sandwich
+2025-12-30,Thomas B.,French Quarter,3,Very inconsistent. Po' Boy Sandwich tasted different than my last visit. Quality control issue?,negative,Po' Boy Sandwich
+2025-12-31,Jessica D.,French Quarter,1,Very inconsistent. Shrimp & Grits tasted different than my last visit. Quality control issue?,negative,Shrimp & Grits
