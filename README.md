@@ -27,12 +27,27 @@ This repository contains a comprehensive analysis demonstrating how multi-agent 
 - Customer Insight Agent
 - Waste Reduction Agent
 - Executive Summary Agent
+## Customer Reviews Dataset
 
+- **File:** 
+- **Records:** 500 customer reviews (100 in sample)
+- **Period:** July - December 2025
+- **Sources:** Google, Yelp-style platforms (synthetic)
+- **Average Rating:** 3.98/5.0
+- **Sentiment Distribution:** 60% positive, 25% mixed, 15% negative
+
+### Key Insights from Reviews
+- Service complaints correlate with peak hours (6-8pm) identified in POS analysis
+- Portion consistency issues mentioned in 18% of mixed/negative reviews
+- Location-specific feedback shows French Quarter performing strongest
+- Po' Boy Sandwich shows bimodal sentiment distribution (quality control opportunity)
+
+Full dataset available upon request.
 ## Project Status
 🔄 **In Progress** - Building comprehensive case study demonstrating AI operations architecture for hospitality industry
 
 ## Author
-Lionel Sylvester - AI Operations Architect
+Lionel Sylvester - Operational Intelligence Lead | Applied AI & Predictive Insights
 [LinkedIn](https://linkedin.com/in/lionel-sly-662658227) | [Email](mailto:slylonnie1@gmail.com)
 
 ---
