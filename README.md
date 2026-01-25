@@ -18,7 +18,7 @@ This case study demonstrates how a multi-agent AI system can identify and resolv
 - Full-service and fast-casual formats
 
 **The Challenge:**
-Analysis of 6 months of operational data (90,000+ POS transactions, 500 customer reviews) revealed 4 critical issues costing an estimated $150K+ annually:
+Analysis of 6 months of operational data (90,000+ POS transactions, 500 customer reviews) revealed 4 critical operational issues creating over $150K in preventable inefficiencies annually:
 
 1. **Revenue Concentration Risk:** 55% of revenue from single location
 2. **Labor Inefficiency:** Peak volume 9.4x low periods = $44K-62K annual waste
