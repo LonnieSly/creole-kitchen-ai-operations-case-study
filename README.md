@@ -52,11 +52,11 @@ I processed 500 customer reviews using `distilbert-base-uncased-finetuned-sst-2-
 - **Identified critical insight:** Crawfish Etouffee (#1 revenue item at $276K) had 19.2% negative sentiment vs. 7.7% for Gumbo Bowl
 - **Root cause analysis:** AI correlation revealed supplier cost increase → quality substitution → customer dissatisfaction
 
-**[📊 View Interactive Sentiment Analysis Notebook](link-to-your-colab)**
+**[📊 View Interactive Sentiment Analysis Notebook](https://colab.research.google.com/drive/1jdUWoEEXTrXhDLwUU-bAVCojMTrF6k0K?usp=sharing)**
 
 ### Sample Visualizations
 
-[Insert your 3 charts here as images in the README]
+[location_performance_comparison (1).png]
 
 ---
 
