@@ -56,7 +56,7 @@ I processed 500 customer reviews using `distilbert-base-uncased-finetuned-sst-2-
 
 ### Sample Visualizations
 
-[location_performance_comparison (1).png]
+![Charts](location_performance_comparison (1).png)
 
 ---
 
