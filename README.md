@@ -2,8 +2,8 @@
 
 **How Multi-Agent AI Could Save a 3-Unit Restaurant $83K-179K Annually**
 
-[![View Case Study PDF](https://img.shields.io/badge/Download-Case%20Study%20PDF-blue)]()
-[![View Notebook](https://img.shields.io/badge/Open-Sentiment%20Analysis-orange)](link-to-colab)
+[![View Case Study PDF](https://img.shields.io/badge/Download-Case%20Study%20PDF-blue)](Multi-Agent_AI_Restaurant_Operations_Case_Study.pdf)
+[![View Notebook](https://img.shields.io/badge/Open-Sentiment%20Analysis-orange)](https://colab.research.google.com/drive/1jdUWoEEXTrXhDLwUU-bAVCojMTrF6k0K?usp=sharing)
 
 ---
 
