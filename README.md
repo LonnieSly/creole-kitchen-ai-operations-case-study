@@ -39,7 +39,7 @@ A coordinated system of 5 AI agents monitoring operational data streams in real-
 - ROI: **94% - 358%**
 - Payback period: **2.5 - 7 months**
 
-📄 **[Download Full One-Page Summary (PDF)](link-to-your-pdf)**
+📄 **[Download Full One-Page Summary (PDF)](Multi-Agent_AI_Restaurant_Operations_Case_Study.pdf)**
 
 ---
 
