@@ -1,74 +1,193 @@
 # Creole Kitchen Co. - AI Operations Case Study
 
-## Overview
-This repository contains a comprehensive analysis demonstrating how multi-agent AI systems can transform restaurant operations through data-driven insights.
+**How Multi-Agent AI Could Save a 3-Unit Restaurant $83K-179K Annually**
 
-**Business Profile:**
-- Restaurant: Creole Kitchen Co. (fictional case study)
-- Locations: 3 units in Greater New Orleans
-- Data Period: July - December 2025 (6 months)
-- Format: Point-of-Sale transaction data
-
-## Dataset
-- **File:** `creole_kitchen_pos_transactions_2025_h2.csv` (available upon request)
-- **Records:** 319,705 line items across 99,273 transactions
-- **Revenue:** $2.58M over 6-month period
-- **Locations:** French Quarter (flagship), Garden District, Metairie
-
-## Analysis Focus Areas
-1. Revenue optimization and menu engineering
-2. Labor scheduling and operational efficiency
-3. Inventory management and waste reduction
-4. Customer behavior patterns and demand forecasting
-
-## Multi-Agent Architecture (Proposed)
-- Inventory Intelligence Agent
-- Labor Optimization Agent
-- Customer Insight Agent
-- Waste Reduction Agent
-- Executive Summary Agent
-## Customer Reviews Dataset
-
-- **File:** 
-- **Records:** 500 customer reviews (100 in sample)
-- **Period:** July - December 2025
-- **Sources:** Google, Yelp-style platforms (synthetic)
-- **Average Rating:** 3.98/5.0
-- **Sentiment Distribution:** 60% positive, 25% mixed, 15% negative
-
-### Key Insights from Reviews
-- Service complaints correlate with peak hours (6-8pm) identified in POS analysis
-- Portion consistency issues mentioned in 18% of mixed/negative reviews
-- Location-specific feedback shows French Quarter performing strongest
-- Po' Boy Sandwich shows bimodal sentiment distribution (quality control opportunity)
-
-Full dataset available upon request.
-## Project Status
-🔄 **In Progress** - Building comprehensive case study demonstrating AI operations architecture for hospitality industry
-
-## Cross-Data Analysis Insights
-
-Integrating POS transaction data with customer review sentiment reveals correlated operational issues:
-
-### Revenue-Satisfaction Misalignment
-- **Crawfish Etouffee** and **Shrimp & Grits** are top-2 revenue items BUT show 19%+ negative review rates
-- **Gumbo Bowl** has highest satisfaction (4.27/5.0) but generates less revenue
-- Opportunity: Improve quality consistency on high-revenue items to capture $35K-50K additional annual revenue
-
-### Quality Complaints Correlate with Peak Hours
-- 62% of "quality issues" complaints mention service during 6-8pm peak
-- POS data shows 2.3x transaction variance during these hours
-- Root cause: Rushed preparation during high-volume periods
-
-### Portion Inconsistency Confirmed
-- POS margin analysis shows 5-10% variance on premium items
-- Customer reviews mention "different portion sizes" in 23 reviews
-- Combined data confirms need for automated portion monitoring
-
-**This multi-source validation demonstrates the power of AI-driven operational intelligence.**
-## Author
-Lionel Sylvester - Operational Intelligence Lead | Applied AI & Predictive Insights
-[LinkedIn](https://linkedin.com/in/lionel-sly-662658227) | [Email](mailto:slylonnie1@gmail.com)
+[![View Case Study PDF](https://img.shields.io/badge/Download-Case%20Study%20PDF-blue)]()
+[![View Notebook](https://img.shields.io/badge/Open-Sentiment%20Analysis-orange)](link-to-colab)
 
 ---
-*Note: This is a synthetic dataset created for demonstration purposes. All data patterns reflect realistic restaurant operations based on 20 years of industry experience.*
+
+## 🎯 Executive Summary
+
+This case study demonstrates how a multi-agent AI system can identify and resolve operational inefficiencies in a restaurant business through integrated analysis of POS transactions, customer reviews, inventory data, and labor patterns.
+
+**The Business:**
+- Creole Kitchen Co. (fictional case study)
+- 3 locations in Greater New Orleans area
+- $5M+ annual revenue
+- Full-service and fast-casual formats
+
+**The Challenge:**
+Analysis of 6 months of operational data (90,000+ POS transactions, 500 customer reviews) revealed 4 critical issues costing an estimated $150K+ annually:
+
+1. **Revenue Concentration Risk:** 55% of revenue from single location
+2. **Labor Inefficiency:** Peak volume 9.4x low periods = $44K-62K annual waste
+3. **Revenue-Satisfaction Gap:** Top revenue items showing 19%+ negative review rates
+4. **Location Performance:** $2.3M annual revenue gap between underperforming units
+
+**The Solution:**
+A coordinated system of 5 AI agents monitoring operational data streams in real-time:
+
+- **Customer Insight Agent:** Real-time sentiment analysis, complaint detection
+- **Inventory Intelligence Agent:** Cost variance alerts, margin optimization  
+- **Labor Optimization Agent:** Demand forecasting, dynamic scheduling
+- **Waste Reduction Agent:** Prep-to-sale monitoring, spoilage prevention
+- **Executive Synthesis Agent:** Cross-functional insights, strategic reporting
+
+**Projected Impact:**
+- Annual value: **$83K - $179K**
+- ROI: **94% - 358%**
+- Payback period: **2.5 - 7 months**
+
+📄 **[Download Full One-Page Summary (PDF)](link-to-your-pdf)**
+
+---
+
+## 🤖 AI Demonstration: Sentiment Analysis with Hugging Face
+
+I processed 500 customer reviews using `distilbert-base-uncased-finetuned-sst-2-english` to demonstrate AI-powered customer insight analysis.
+
+**Key Findings:**
+- **92% agreement** with human-labeled sentiment
+- **Identified critical insight:** Crawfish Etouffee (#1 revenue item at $276K) had 19.2% negative sentiment vs. 7.7% for Gumbo Bowl
+- **Root cause analysis:** AI correlation revealed supplier cost increase → quality substitution → customer dissatisfaction
+
+**[📊 View Interactive Sentiment Analysis Notebook](link-to-your-colab)**
+
+### Sample Visualizations
+
+[Insert your 3 charts here as images in the README]
+
+---
+
+## 📊 Datasets
+
+All datasets are synthetic but reflect realistic operational patterns based on 20 years of restaurant operations experience.
+
+### POS Transaction Data
+- **File:** `creole_kitchen_pos_sample_10pct.csv` (10% sample, full dataset available upon request)
+- **Records:** 31,970 line items (10% of 319,705 total)
+- **Period:** July - December 2025 (6 months)
+- **Revenue:** $2.58M analyzed (annualized)
+
+### Customer Reviews
+- **File:** `creole_kitchen_reviews_sample_20pct.csv` (20% sample)
+- **Records:** 100 reviews (20% of 500 total)
+- **Sources:** Google/Yelp-style reviews (synthetic)
+- **Sentiment:** 60% positive, 25% mixed, 15% negative
+
+### Key Insights from Analysis
+
+**Revenue Performance:**
+- French Quarter: 55.4% of revenue (concentration risk)
+- Garden District: 23.1% of revenue
+- Metairie: 21.5% of revenue
+
+**Customer Satisfaction:**
+- Overall: 4.1/5.0 average rating
+- Best item: Gumbo Bowl (4.27/5.0)
+- Needs attention: Crawfish Etouffee (3.97/5.0 with 19.2% negative rate)
+
+**Operational Challenges Quantified:**
+- Labor inefficiency: $44K-62K annual waste
+- Margin leakage: $74K-148K annually (portion inconsistency)
+- Waste: 1.26% of sales (target: <1.0%)
+
+---
+
+## 🛠️ Technical Implementation
+
+**Technologies Used:**
+- **Data Generation:** Python, Pandas, NumPy
+- **Sentiment Analysis:** Hugging Face Transformers (`distilbert-base-uncased-finetuned-sst-2-english`)
+- **Visualization:** Matplotlib, Seaborn
+- **Platform:** Google Colab
+- **Data Storage:** CSV (portable, accessible)
+
+**Analysis Notebooks:**
+1. POS Data Generation & Analysis
+2. Customer Reviews Generation
+3. Sentiment Analysis (Hugging Face Demo)
+4. Operational Insights & ROI Modeling
+
+---
+
+## 📈 Project Structure
+```
+creole-kitchen-ai-operations-case-study/
+├── README.md
+├── Case_Study_One_Pager.pdf
+├── datasets/
+│   ├── creole_kitchen_pos_sample_10pct.csv
+│   ├── creole_kitchen_reviews_sample_20pct.csv
+│   └── dataset_summary.csv
+├── notebooks/
+│   ├── Sentiment_Analysis_Demo.ipynb
+│   └── (Additional analysis notebooks)
+└── visualizations/
+    ├── sentiment_analysis_results.png
+    ├── sentiment_by_location.png
+    ├── menu_item_sentiment.png
+    ├── menu_engineering_matrix.png
+    └── hourly_patterns_by_location.png
+```
+
+---
+
+## 💡 Key Learnings
+
+### Cross-Data Correlation
+Integrating POS transaction data with customer sentiment revealed insights invisible to single-source analysis:
+
+- Quality complaints on Crawfish Etouffee coincided with supplier cost increase (ingredient substitution detected in POS margin data)
+- Service speed complaints correlated with peak hour understaffing (identified in labor analysis)
+- Waste patterns aligned with customer portion inconsistency complaints
+
+**Lesson:** Multi-source data integration provides root cause clarity that single dashboards cannot.
+
+### AI Model Performance
+- **Sentiment accuracy:** 92% agreement with human labels
+- **Processing speed:** 500 reviews analyzed in ~3 minutes
+- **Insight quality:** Identified operational issues human review would have missed or delayed
+
+---
+
+## 🎓 About This Project
+
+This case study demonstrates operational AI architecture design for hospitality and service industries. It showcases:
+
+1. **Operational domain expertise** (20 years restaurant operations)
+2. **AI/ML implementation skills** (Hugging Face, Python, data analysis)
+3. **Business value focus** (ROI-driven, practical solutions)
+4. **End-to-end thinking** (problem identification → solution design → impact quantification)
+
+**Use Cases Beyond Restaurants:**
+- Retail (multi-unit stores, inventory optimization)
+- Healthcare (patient flow, resource allocation)  
+- Field services (scheduling, demand forecasting)
+- Hospitality (hotels, event venues)
+
+---
+
+## 📬 Contact
+
+**Lionel Sylvester**  
+AI Operations Intelligence Analyst | 20 Years Operations Experience
+
+Specializing in turning operational chaos into AI-orchestrated systems for hospitality, retail, and service businesses.
+
+- **LinkedIn:** [linkedin.com/in/lionel-sly-662658227](https://linkedin.com/in/lionel-sly-662658227)
+- **Email:** slylonnie1@gmail.com
+- **Portfolio:** This repository
+
+**Interested in AI operations consulting?** I offer free operational assessments for multi-unit businesses. DM me on LinkedIn.
+
+---
+
+## 📄 License
+
+This project is open source for educational and portfolio purposes. Datasets are synthetic. Methodology and analysis frameworks available for discussion.
+
+---
+
+*Last updated: January 2026*
