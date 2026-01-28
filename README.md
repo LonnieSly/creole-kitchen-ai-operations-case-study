@@ -42,6 +42,26 @@ A coordinated system of 5 AI agents monitoring operational data streams in real-
 📄 **[Download Full One-Page Summary (PDF)](Multi-Agent_AI_Restaurant_Operations_Case_Study.pdf)**
 
 ---
+## 📊 Key Results Visualized
+
+### Revenue-Satisfaction Disconnect
+
+![Menu Engineering Matrix](visualizations/menu_engineering_matrix.png)
+
+**Finding:** High-revenue items (Crawfish Étouffée, Shrimp & Grits) show significantly lower customer satisfaction than high-rated items (Gumbo Bowl, Fried Catfish).
+
+### AI Sentiment Analysis
+
+![Sentiment by Location](visualizations/sentiment_by_location.png)
+
+**Finding:** French Quarter location shows highest negative sentiment rate (15.2%) despite generating 55% of revenue - service quality issue during high-volume periods.
+
+### Operational Timing Patterns
+
+![Hourly Transaction Patterns](visualizations/hourly_patterns_by_location.png)
+
+**Finding:** Peak volume (6-8pm) is 2.3x average, correlating with quality complaints and rushed preparation.
+
 
 ## 🤖 AI Demonstration: Sentiment Analysis with Hugging Face
 
